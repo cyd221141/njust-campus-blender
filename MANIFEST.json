@@ -1,0 +1,692 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 207,
+    "sha256": "17b72027d9812d9398c49e930ba7e9dad0b9568dd3233e7574f4fcc15258b333"
+  },
+  {
+    "path": "ASSET_LICENSE.md",
+    "bytes": 755,
+    "sha256": "eec4f24467666a47c2676f3c4eb8d2762226b7180a6349a3513b141ac991e77d"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1090,
+    "sha256": "c3ad3b93ac75eab5fc2d48fcb0c679a4ea00d70250bf8d09d4b3625cd83c2896"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2567,
+    "sha256": "e151d636674f7346ef23e39692b4f46279c8efa49256b4e6c89bdfccd5e31ea1"
+  },
+  {
+    "path": "njust-film/index.html",
+    "bytes": 3253,
+    "sha256": "c436c549aaeed33796ff5c81015b8b2dfde9883d814c1f0ac9f2a9a2448d392a"
+  },
+  {
+    "path": "njust-film/package-lock.json",
+    "bytes": 217722,
+    "sha256": "38d086b1e437b32c9fb38e20da4bf2517c409ef00b35ed6a0bf77e1febff7d9d"
+  },
+  {
+    "path": "njust-film/package.json",
+    "bytes": 998,
+    "sha256": "8a9c61c5b51fe5060213686e0f6d51a8c2dbd5339271207e9cc23e918015698f"
+  },
+  {
+    "path": "njust-film/README.md",
+    "bytes": 2817,
+    "sha256": "d1590d0adff19ea59babb9df280672c37b0ee0f6dd7f3faac452ed4d7047f88f"
+  },
+  {
+    "path": "njust-film/remotion.config.ts",
+    "bytes": 501,
+    "sha256": "2f81b305dc23291ff88d2c813d69a57b2b26e3cdc93f8c0f78a07bd03d3111c5"
+  },
+  {
+    "path": "njust-film/tsconfig.json",
+    "bytes": 368,
+    "sha256": "a6fbcf514dbfd3d116c3f7f78b72949c8c2ff45bdbe17aeff4c97e16bc1327fa"
+  },
+  {
+    "path": "njust-miniature/build_campus.py",
+    "bytes": 33510,
+    "sha256": "1a5956930c634985d19a964e405f18984d522903ac1d5606e2b93bb3ea858ad9"
+  },
+  {
+    "path": "njust-miniature/export_preview.py",
+    "bytes": 613,
+    "sha256": "8f548bcff15325b10e2ad52ee77aec5cbb3afb4233241e7affd03ae22ee0863f"
+  },
+  {
+    "path": "njust-miniature/index.html",
+    "bytes": 6809,
+    "sha256": "442c32f7abffa2cfe2ffbd020a87699c506404a8a0a69c9b8baab20e1c952f7c"
+  },
+  {
+    "path": "njust-miniature/NJUST_Violet_Spring.blend",
+    "bytes": 10213942,
+    "sha256": "879067adb4bae5a63b95776552a553134e4a179a9da54f4f916bd113ba2ca40f"
+  },
+  {
+    "path": "njust-miniature/NJUST_Violet_Spring.glb",
+    "bytes": 23587496,
+    "sha256": "1f57587da58f8d7484a129fcaf017ee31528d742ff88f51a79f6c7feec84f52c"
+  },
+  {
+    "path": "njust-miniature/README.md",
+    "bytes": 3924,
+    "sha256": "dab3044a48b738be4b6a58d31ae47f048a65a285c64451ff6d7ca3d56e857b2e"
+  },
+  {
+    "path": "njust-miniature/scene_manifest.json",
+    "bytes": 231,
+    "sha256": "33fc0b61ac0dfb79a774b8600fb3b30e4086d185beaf3b69ae4b96fc2652be6e"
+  },
+  {
+    "path": "njust-miniature/serve_preview.py",
+    "bytes": 644,
+    "sha256": "673d737575c75764d43c20fb4f3dc7e3f5d22bd6fe36e55cf627b07cb5f31713"
+  },
+  {
+    "path": "njust-miniature/verify_viewer.cjs",
+    "bytes": 2140,
+    "sha256": "0aacd5fad82ee65f7d41cc18ef6e9303fc228ccb9171384b3e3fa7fff4161437"
+  },
+  {
+    "path": "njust-miniature/viewer.js",
+    "bytes": 5194,
+    "sha256": "c3808d632850076d143b9e4a995e2d5061642d1146517cc9fe6b5e039b2eff67"
+  },
+  {
+    "path": "njust-miniature/打开校园预览.cmd",
+    "bytes": 48,
+    "sha256": "d6efb8252502d67b84071886313b77dfcf1de5873249454c365ab095f41771fe"
+  },
+  {
+    "path": "njust-refined/index.html",
+    "bytes": 8342,
+    "sha256": "5204a230a229c3bc1be6e49469b1666312e1288f556614eb68067695c4fe6214"
+  },
+  {
+    "path": "njust-refined/NJUST_Final.blend",
+    "bytes": 40629027,
+    "sha256": "70b148a8e4a6e5125547e205aec551237623a42e6b78e3b16ee6b1d85fdefd8f"
+  },
+  {
+    "path": "njust-refined/NJUST_v00_Original.blend",
+    "bytes": 10213667,
+    "sha256": "acb1de3bdd9cb691f78fd8b4aca6de11e5ff613a4212753941a556f08fd76fbd"
+  },
+  {
+    "path": "njust-refined/NJUST_v01_Buildings_Roads.blend",
+    "bytes": 20151405,
+    "sha256": "39dd68b2cf31c41dbd9cfff3f4232fce0b621e6302f400e5791a7de244a3ce97"
+  },
+  {
+    "path": "njust-refined/NJUST_v02_Landscape_Materials.blend",
+    "bytes": 30380796,
+    "sha256": "55f91d33d19eb1ce27029f927386991f6b484d384b13d1421fcd600cbe882eaf"
+  },
+  {
+    "path": "njust-refined/NJUST_v03_Lighting_Cameras.blend",
+    "bytes": 31224881,
+    "sha256": "5bd940095b083fbddae618f7548d700ad8eb986f1bd9f9f07f6023a145d6328e"
+  },
+  {
+    "path": "njust-refined/NJUST_v04_Refined.blend",
+    "bytes": 31613413,
+    "sha256": "e9bc52201beb498e960ab035169e252362a7d4c40392d9ef797463589b11d073"
+  },
+  {
+    "path": "njust-refined/NJUST_v05_Final.blend",
+    "bytes": 40590131,
+    "sha256": "faed38455fec62e5c34b512e4e038f2d255e7971bf84626f66cc5f9718614de5"
+  },
+  {
+    "path": "njust-refined/NJUST_v06_Delivery.blend",
+    "bytes": 40591389,
+    "sha256": "5a134fd0542e57e91a6d3c576a89647038c7e59d3fd66b87b0bf5f8b9bbc7623"
+  },
+  {
+    "path": "njust-refined/NJUST_v07_Campus_Refined.blend",
+    "bytes": 40604163,
+    "sha256": "20a17b33d2c5648f57c9ee1c99f0352d274f1d85320cb9904a4436e413eeed88"
+  },
+  {
+    "path": "njust-refined/README.md",
+    "bytes": 2694,
+    "sha256": "d99050fb7d54491fc94661cf22598d43442de57156ebc8fbde11f7cf419831ee"
+  },
+  {
+    "path": "njust-refined/修改报告.md",
+    "bytes": 10888,
+    "sha256": "bbf1c5df49f455d2de33bf5833ec0e48d87e1feb33a5da5dfef633e5a61a11d9"
+  },
+  {
+    "path": "njust-refined/animation/NJUST_Campus_Flythrough_18s.mp4",
+    "bytes": 34649065,
+    "sha256": "0fa198781264698eb2ab4daa1ed97d1d3de9f42767a19ead44010f8fb64eb3b3"
+  },
+  {
+    "path": "njust-refined/references/kloppenheim_06_puresky_1k.hdr",
+    "bytes": 1173154,
+    "sha256": "206c67e3a1b992282821cf06662bdd69bbb4915c1c4444a66338a40d6a7d4e34"
+  },
+  {
+    "path": "njust-refined/renders/01_Day_Aerial.png",
+    "bytes": 4731337,
+    "sha256": "8b7a01ef5f528ef6182eff8824d605e51a8fc0ed76ae9dca5a08bce438294f0f"
+  },
+  {
+    "path": "njust-refined/renders/02_Golden_Aerial.png",
+    "bytes": 4661524,
+    "sha256": "edfe4d98a7ecd4cd0109592cb5c33aa8457e364a89dcfae1a4b8d0cf367dc437"
+  },
+  {
+    "path": "njust-refined/renders/03_Gate.png",
+    "bytes": 3571430,
+    "sha256": "31122bd6249ab67a19dc856d85fb7870240b81bd9c37dc4d74e0440b3b31f91f"
+  },
+  {
+    "path": "njust-refined/renders/04_Main_Road.png",
+    "bytes": 4095857,
+    "sha256": "1b1e3302c6875fad4b8fbfae53ae818672c61d56788b6773341bac487b1f0e79"
+  },
+  {
+    "path": "njust-refined/renders/05_Pedestrian.png",
+    "bytes": 4924089,
+    "sha256": "9d97a4e1e1ee48d49965046406814f160ca671d1f920f32e2330ccac2065ad88"
+  },
+  {
+    "path": "njust-refined/renders/06_Sports.png",
+    "bytes": 4359034,
+    "sha256": "57dc5f45cd9e75460d03f464ed69ff6beed800f0d0237b95cca82c4d060cd570"
+  },
+  {
+    "path": "njust-refined/renders/07_Campus_Plan.png",
+    "bytes": 4256249,
+    "sha256": "fa6ae813b4597db9873ccc1df4d46194f721a54b67b106dc9a6d706ca02d3bb4"
+  },
+  {
+    "path": "njust-refined/renders/08_Night.png",
+    "bytes": 3995194,
+    "sha256": "df1ccafefab6f73b795d6be8435e428fddcb0184caa8e57bc845afda4c03054a"
+  },
+  {
+    "path": "njust-refined/renders/09_Central_Building.png",
+    "bytes": 4455348,
+    "sha256": "af2f2ce59b367f614b35007e1e6817d99b8cda9e1d3eb89b6095d49760ebb0cc"
+  },
+  {
+    "path": "njust-refined/renders/10_Lake.png",
+    "bytes": 4837662,
+    "sha256": "a9de99020d486522199dbf95fe274864068cb75e803a93af784c217c1fb8ac95"
+  },
+  {
+    "path": "njust-refined/renders/preview_aerial.png",
+    "bytes": 2954311,
+    "sha256": "0c399228be3bbdec29aca5572d1a35e43354228bb5695890df3ace924b067a2e"
+  },
+  {
+    "path": "njust-refined/renders/preview_gate.png",
+    "bytes": 2499073,
+    "sha256": "f4b222629276bcb8aadfd9e8bb1811c5beb6a0d08da3a4b10a30f56d8dce9d29"
+  },
+  {
+    "path": "njust-refined/renders/qa_aerial.png",
+    "bytes": 1561831,
+    "sha256": "30c38748312c56602bf80fc6c6657dde8129bd50fe05835dcf39d2154d96ce80"
+  },
+  {
+    "path": "njust-refined/renders/qa_gate.png",
+    "bytes": 1327072,
+    "sha256": "082330ff32d1d3b92113a7784b1c17560504280271e05a48795ac557dd451ffe"
+  },
+  {
+    "path": "njust-refined/renders/test_01_Day_Aerial.png",
+    "bytes": 1211631,
+    "sha256": "bde9d463a2301c26adcb1349528ba3ced476a3463f10242bf599a36970f0c75e"
+  },
+  {
+    "path": "njust-refined/renders/test_02_Golden_Aerial.png",
+    "bytes": 1203476,
+    "sha256": "707b8a71a7badddbbb0555837f079532f2d800500d1b0e0ee83e02d088414f1e"
+  },
+  {
+    "path": "njust-refined/renders/test_03_Gate.png",
+    "bytes": 976084,
+    "sha256": "10af062b715a7bab82b402e32229563b546ee327d0e5a31ac09a2dfe694e4514"
+  },
+  {
+    "path": "njust-refined/renders/test_04_Main_Road.png",
+    "bytes": 1143940,
+    "sha256": "7268100883ad30c7f0177ec3d654d79e8ddc514a0b3095d30047281aa2cd6b03"
+  },
+  {
+    "path": "njust-refined/renders/test_05_Pedestrian.png",
+    "bytes": 1380491,
+    "sha256": "40310a42bc555107a34f16bc6892791ff1c6c59eb65dbc747d52d7c8a6f8c0bd"
+  },
+  {
+    "path": "njust-refined/renders/test_06_Sports.png",
+    "bytes": 1232842,
+    "sha256": "761803efcd28895dd8a92dcf701e0c8ff42cfbba39d02360b315363acae2db87"
+  },
+  {
+    "path": "njust-refined/renders/test_07_Campus_Plan.png",
+    "bytes": 1160682,
+    "sha256": "0e6a0999108410672ce898faf8bf921189d0b3edc38f5e9619b6a54f8ed8e24d"
+  },
+  {
+    "path": "njust-refined/renders/test_08_Night.png",
+    "bytes": 1028378,
+    "sha256": "cdf30d39069e551424ba77e35de67a41ecc2b40631fa8ac45bf31a80063dd66b"
+  },
+  {
+    "path": "njust-refined/renders/test_09_Central_Building.png",
+    "bytes": 1240469,
+    "sha256": "787e8b2e8c4d5ecb33786809910f4a0c7b22decbe5a21484bea28f4e1474c0e8"
+  },
+  {
+    "path": "njust-refined/renders/test_10_Lake.png",
+    "bytes": 1340539,
+    "sha256": "92896636df4bcea1a239ef1d0585ce3e4c65e3e654007cbec815737453840d8a"
+  },
+  {
+    "path": "njust-refined/scripts/audit_delivery.py",
+    "bytes": 2599,
+    "sha256": "56002d72d0fcbc1ae09a03549790a3a52fd403cc2deeb88ec91bb7788aa638a8"
+  },
+  {
+    "path": "njust-refined/scripts/audit_original.py",
+    "bytes": 989,
+    "sha256": "8865674220e6e050d38c90812fb1811cda8973bd624fb4cd1375fdfaf1912181"
+  },
+  {
+    "path": "njust-refined/scripts/campus_controls.py",
+    "bytes": 1784,
+    "sha256": "49772a699c595fff1527c1b20d1fec13bf5b849990bc21a400849b616eb5d4a0"
+  },
+  {
+    "path": "njust-refined/scripts/encode_video.ps1",
+    "bytes": 719,
+    "sha256": "74b0f70cf82547755dc5f7e6dbb64a0ecbb3bcd0a8a1f44654c3c20de3f708e3"
+  },
+  {
+    "path": "njust-refined/scripts/finalize_presets.py",
+    "bytes": 1134,
+    "sha256": "7a710f28f6476f000b1e06c218ae79fe776723213188a829a560f69faa8b8fce"
+  },
+  {
+    "path": "njust-refined/scripts/final_qa_fixes.py",
+    "bytes": 2646,
+    "sha256": "f8d48aed4ff60809e60dbaf7497a2a1ac7712643252e3a1382abb45fc2b5ac7b"
+  },
+  {
+    "path": "njust-refined/scripts/finish_botanicals.py",
+    "bytes": 1973,
+    "sha256": "ad7a836ee3825d7e45731fb775299e06e1083445f2de6d9594fbaae55170f7bf"
+  },
+  {
+    "path": "njust-refined/scripts/finish_flythrough.py",
+    "bytes": 2353,
+    "sha256": "d0509862e9fb3f3c12492e401ed1ead1f85fbb7ffeb0484442f06e16cf98319b"
+  },
+  {
+    "path": "njust-refined/scripts/fit_plan_camera.py",
+    "bytes": 481,
+    "sha256": "32cc3a27c65fb6777208b989a23f9e48340dea7899ce209343e56ae4a956a053"
+  },
+  {
+    "path": "njust-refined/scripts/ground_path_finish.py",
+    "bytes": 470,
+    "sha256": "6ff6fe47fc150c8d0fa980e7bbea3719b1c277f253e9629972a66b1de2094981"
+  },
+  {
+    "path": "njust-refined/scripts/inspect_qa.py",
+    "bytes": 1172,
+    "sha256": "8aa39248166968caf155bf0d6125a40786cc82f1bbdafc20a28fe77f6d6c2b5a"
+  },
+  {
+    "path": "njust-refined/scripts/lighting.py",
+    "bytes": 2269,
+    "sha256": "63c30e8cedf17b4fd1a52fb4bcc7a2989aaa4ff3e0bf57aaa805ddf6eec3fe47"
+  },
+  {
+    "path": "njust-refined/scripts/package_delivery.py",
+    "bytes": 1633,
+    "sha256": "532049e78ba4e546c98a6824c44a83bd39dc1dd78de60cc252a7d9e302045983"
+  },
+  {
+    "path": "njust-refined/scripts/refine_lib.py",
+    "bytes": 8739,
+    "sha256": "094ff44c4bf0cc9c11ba883d90d3ed3febb39ff748b2fb063a4fdeef58ae3db2"
+  },
+  {
+    "path": "njust-refined/scripts/render_animation.py",
+    "bytes": 1175,
+    "sha256": "c68c26b13a519924f3754773bd508c932a62895f2999e8dc9ea99ec264ecf7e0"
+  },
+  {
+    "path": "njust-refined/scripts/render_batch.py",
+    "bytes": 1396,
+    "sha256": "70abb1a63f1a6d64bf2424b691711e5dfea430255c7fdafff9f8e231f8ab7285"
+  },
+  {
+    "path": "njust-refined/scripts/render_scene.py",
+    "bytes": 1103,
+    "sha256": "01ec31e7c5b5421d990394447a4074061a338a27618ae6fc08edf2ec7a52601b"
+  },
+  {
+    "path": "njust-refined/scripts/stage1_structure.py",
+    "bytes": 12992,
+    "sha256": "e153fe5817f123b3fc342ff527248f9ab66dba657ad23d394d373e81fccb7825"
+  },
+  {
+    "path": "njust-refined/scripts/stage2_landscape.py",
+    "bytes": 25320,
+    "sha256": "21c2b7a5d31525d0d9ff26dee9af588fc3ba0e179ad37aa03daeca2f426ac763"
+  },
+  {
+    "path": "njust-refined/scripts/stage3_cameras.py",
+    "bytes": 5549,
+    "sha256": "f39dd308a097c2824a17ee94b64e0a0b85132dc42848be3e88c66a85c85dfb7f"
+  },
+  {
+    "path": "njust-refined/scripts/stage4_qa_lod.py",
+    "bytes": 7241,
+    "sha256": "67a598c33f4ea4e510724e656640f1f99e1aa5f711052dd3c1551496a5ba0e6b"
+  },
+  {
+    "path": "njust-refined/scripts/stage5_finish.py",
+    "bytes": 1955,
+    "sha256": "df1fa006af85d516fd9be546dfbe39629b718f51e09f430065e62ae57027638f"
+  },
+  {
+    "path": "njust-refined/scripts/verify_gallery.cjs",
+    "bytes": 2109,
+    "sha256": "8999d91b416343eff764cb604b9e7ef11b14a432a9f160de3f9727c81dc1fab3"
+  },
+  {
+    "path": "njust-miniature/references/urls0.json",
+    "bytes": 4288,
+    "sha256": "2dccf9ca4a584023e84f8cdbd4b82f6372427cf77688691b3a017bb92d2cc8a6"
+  },
+  {
+    "path": "njust-miniature/references/urls1.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "njust-miniature/renders/01_campus_hero.png",
+    "bytes": 6790857,
+    "sha256": "6ca33a70eab838e54fe5f7239b7e61e12f4658ad61444e1407dacd75e1412336"
+  },
+  {
+    "path": "njust-miniature/renders/02_violet_garden.png",
+    "bytes": 4127070,
+    "sha256": "68109c1eb7a12cbc441bf69622d1327b2469180ada4741c876b54beab390178a"
+  },
+  {
+    "path": "njust-miniature/renders/03_architecture.png",
+    "bytes": 4552443,
+    "sha256": "7016fbdb30cf8b8b4f2242fee9eaa3685b99f3c1e6409d22192aca95deafbfdc"
+  },
+  {
+    "path": "njust-miniature/renders/04_campus_plan.png",
+    "bytes": 4245013,
+    "sha256": "526b4dac1381d9a2cbf0ddabc395dc0350497a91d5dfc1321eae36f58a21955f"
+  },
+  {
+    "path": "njust-miniature/renders/05_lake_bridge.png",
+    "bytes": 3907074,
+    "sha256": "ceda3421204ae76c8da4145c3c10b3bb084aa564d7ed175659b6ad855b75fb22"
+  },
+  {
+    "path": "njust-miniature/vendor/THREE-LICENSE",
+    "bytes": 1081,
+    "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+  },
+  {
+    "path": "njust-miniature/vendor/three.core.js",
+    "bytes": 1443056,
+    "sha256": "3718df126d69c125362a03340913204470d8c50238605150e57f808840fb7759"
+  },
+  {
+    "path": "njust-miniature/vendor/three.module.js",
+    "bytes": 650153,
+    "sha256": "bbf5ed13fe4373f5bd38b14ea8e62e9f157327da5638edc6d3863e08b167c9c7"
+  },
+  {
+    "path": "njust-miniature/vendor/addons/controls/OrbitControls.js",
+    "bytes": 40504,
+    "sha256": "faabb4e8dfd9235ee4a9fd7c9a3d75f90f1689dbd4944bd6fd32117dacec5f93"
+  },
+  {
+    "path": "njust-miniature/vendor/addons/loaders/GLTFLoader.js",
+    "bytes": 114959,
+    "sha256": "97642d720f16cc9a0c9844934198e4d0c023bea8e89576d0f7545d03b2d103d2"
+  },
+  {
+    "path": "njust-miniature/vendor/addons/utils/BufferGeometryUtils.js",
+    "bytes": 37621,
+    "sha256": "5c552223a9309883743b80538d6e9cdb45e3227f30d3ec56fb2c39b46e78d595"
+  },
+  {
+    "path": "njust-miniature/vendor/addons/utils/SkeletonUtils.js",
+    "bytes": 11535,
+    "sha256": "b1632a703206c3d830de9fcbe515696770d04b71a15ee6b50afa6d2c3298c86f"
+  },
+  {
+    "path": "njust-film/output/NJUST_Bilibili_48s_1080p.mp4",
+    "bytes": 68007016,
+    "sha256": "8b7dd48a3bf4da9a88c6e4ac754a241a2b22dd05cbf9037d057da454d3aa12ad"
+  },
+  {
+    "path": "njust-film/output/NJUST_Bilibili_Cover.png",
+    "bytes": 2979416,
+    "sha256": "153d13d1c82828dd022c9297cfb127ce87856007cdf4966cc5f84006e9c13ce2"
+  },
+  {
+    "path": "njust-film/output/NJUST_Douyin_48s_1080p.mp4",
+    "bytes": 43547278,
+    "sha256": "42f1604960e4e26d6570fe3bb0a5496d8b56eb0e5c9c520a9f9114ef7b35cec7"
+  },
+  {
+    "path": "njust-film/output/NJUST_Douyin_Cover.png",
+    "bytes": 2587779,
+    "sha256": "ea675e552b40c3a496934cf528a16f8d18971c28a5720e6c3c5183c1cf5ce353"
+  },
+  {
+    "path": "njust-film/output/发布文案.md",
+    "bytes": 1633,
+    "sha256": "fe7da95fd8d84bd80576264dde8bbdb235992e8c72244dadfe68a2243533230b"
+  },
+  {
+    "path": "njust-film/references/SKILL_REVIEW.md",
+    "bytes": 1351,
+    "sha256": "fcaf681d3c76b24638549dfc5a28f433c7c05c25be067f2f096e96c08dabfd3a"
+  },
+  {
+    "path": "njust-film/reports/delivery_validation.json",
+    "bytes": 2686,
+    "sha256": "a63f3e34cc738c6767aa1b355ade6e928acf84d72a80c0550afd134838d1e1f4"
+  },
+  {
+    "path": "njust-film/scripts/compose_score.py",
+    "bytes": 4126,
+    "sha256": "e5faafeb163015e9858e0b337d8aa305659883054798a65aa546b21a5f0e8dd2"
+  },
+  {
+    "path": "njust-film/scripts/encode_assets.py",
+    "bytes": 724,
+    "sha256": "52f5ae6fdce9a2530a7301921d6ce52d93f14f0a4914b62ef565e91b0c90759a"
+  },
+  {
+    "path": "njust-film/scripts/render_film_assets.py",
+    "bytes": 4778,
+    "sha256": "6c2756a9623749c958c4bf7af133ea5c1082380fbef6e0ab51be549f1959784d"
+  },
+  {
+    "path": "njust-film/scripts/validate_delivery.py",
+    "bytes": 2511,
+    "sha256": "7ae192453d58615d6d9d094a84725cefe8762cfbec976867b57f1f6001406333"
+  },
+  {
+    "path": "njust-film/src/Campus.tsx",
+    "bytes": 1880,
+    "sha256": "e5e65c1683dc9dc592b0c2c875cc1d4a0d55780d17c1b7f3b8623f57ef58aebd"
+  },
+  {
+    "path": "njust-film/src/Composition.tsx",
+    "bytes": 520,
+    "sha256": "ce19fdf2103cb29ab48f8a6ee76733dda3b5c6b752107fdcbd2fb2f7936e5937"
+  },
+  {
+    "path": "njust-film/src/Film.tsx",
+    "bytes": 1232,
+    "sha256": "d39d6631032b359b0779db2b51347d93132e8ea18e8649d8d30115e9a7f81105"
+  },
+  {
+    "path": "njust-film/src/Hook.tsx",
+    "bytes": 1446,
+    "sha256": "062837f1a8218eb4da38840d6ea9d9e8fdc1ff6324741f6212740a3f0cf3f695"
+  },
+  {
+    "path": "njust-film/src/index.css",
+    "bytes": 62,
+    "sha256": "11024c2fda736bf9bc7b3848b0e024287dac5ad66767658d63fe2c6eef393aac"
+  },
+  {
+    "path": "njust-film/src/index.ts",
+    "bytes": 109,
+    "sha256": "957e481dd33a29b4a55ae0e95dbf763b7e48c37c427ca4bd1275faf34bc07a74"
+  },
+  {
+    "path": "njust-film/src/Process.tsx",
+    "bytes": 3530,
+    "sha256": "5debff498d2c66a848127236ce8f73b71b7e7cdfc4a95d33b795e9b1f4810ec1"
+  },
+  {
+    "path": "njust-film/src/Root.tsx",
+    "bytes": 636,
+    "sha256": "bee264bfa0f2c03eb75d45b7c97a4fc658a7139d2df8c210e3a29f0d6a42217e"
+  },
+  {
+    "path": "njust-film/src/Shared.tsx",
+    "bytes": 4356,
+    "sha256": "79dbb2727add2814faec0a7e703cf5bd8262d8548fe4b2c9a0402d277f548264"
+  },
+  {
+    "path": "njust-film/public/audio/score.wav",
+    "bytes": 9216078,
+    "sha256": "283bd48dfb26b455d03a2891a0eefd39c00359ca753d8d49f23bf345803682e3"
+  },
+  {
+    "path": "njust-film/public/media/01_Day_Aerial.png",
+    "bytes": 4731337,
+    "sha256": "8b7a01ef5f528ef6182eff8824d605e51a8fc0ed76ae9dca5a08bce438294f0f"
+  },
+  {
+    "path": "njust-film/public/media/02_Golden_Aerial.png",
+    "bytes": 4661524,
+    "sha256": "edfe4d98a7ecd4cd0109592cb5c33aa8457e364a89dcfae1a4b8d0cf367dc437"
+  },
+  {
+    "path": "njust-film/public/media/03_Gate.png",
+    "bytes": 3571430,
+    "sha256": "31122bd6249ab67a19dc856d85fb7870240b81bd9c37dc4d74e0440b3b31f91f"
+  },
+  {
+    "path": "njust-film/public/media/04_Main_Road.png",
+    "bytes": 4095857,
+    "sha256": "1b1e3302c6875fad4b8fbfae53ae818672c61d56788b6773341bac487b1f0e79"
+  },
+  {
+    "path": "njust-film/public/media/05_Pedestrian.png",
+    "bytes": 4924089,
+    "sha256": "9d97a4e1e1ee48d49965046406814f160ca671d1f920f32e2330ccac2065ad88"
+  },
+  {
+    "path": "njust-film/public/media/06_Sports.png",
+    "bytes": 4359034,
+    "sha256": "57dc5f45cd9e75460d03f464ed69ff6beed800f0d0237b95cca82c4d060cd570"
+  },
+  {
+    "path": "njust-film/public/media/07_Campus_Plan.png",
+    "bytes": 4256249,
+    "sha256": "fa6ae813b4597db9873ccc1df4d46194f721a54b67b106dc9a6d706ca02d3bb4"
+  },
+  {
+    "path": "njust-film/public/media/08_Night.png",
+    "bytes": 3995194,
+    "sha256": "df1ccafefab6f73b795d6be8435e428fddcb0184caa8e57bc845afda4c03054a"
+  },
+  {
+    "path": "njust-film/public/media/09_Central_Building.png",
+    "bytes": 4455348,
+    "sha256": "af2f2ce59b367f614b35007e1e6817d99b8cda9e1d3eb89b6095d49760ebb0cc"
+  },
+  {
+    "path": "njust-film/public/media/10_Lake.png",
+    "bytes": 4837662,
+    "sha256": "a9de99020d486522199dbf95fe274864068cb75e803a93af784c217c1fb8ac95"
+  },
+  {
+    "path": "njust-film/public/media/assembly.mp4",
+    "bytes": 1950894,
+    "sha256": "3970e09f5b61004243e41af46140821ad364b37c016a1264a3d87dbdf52d5422"
+  },
+  {
+    "path": "njust-film/public/media/clay.png",
+    "bytes": 2065823,
+    "sha256": "fcd9fcecfdaf89b6c9e3eb684408f9f9680a678a6fdb3db02a16f8f22deeb194"
+  },
+  {
+    "path": "njust-film/public/media/flythrough.mp4",
+    "bytes": 34649065,
+    "sha256": "0fa198781264698eb2ab4daa1ed97d1d3de9f42767a19ead44010f8fb64eb3b3"
+  },
+  {
+    "path": "njust-film/public/media/grove.mp4",
+    "bytes": 8385068,
+    "sha256": "689156b3e6e962c57bb2b9e0d819f28f2a0302eed9ede08d71bf3ec2e893e375"
+  },
+  {
+    "path": "njust-film/public/media/hero.mp4",
+    "bytes": 4917743,
+    "sha256": "6bb34547a477e5f15a7952f0c549a90f4ea331ebe706a1e7d2a389b5db44e8f3"
+  },
+  {
+    "path": "njust-film/public/media/night.mp4",
+    "bytes": 2004157,
+    "sha256": "3ad339a20e82b4cf5238f2ec571d798e4ca8aa25ff9e5ddfa9007907b4bf92c5"
+  },
+  {
+    "path": "njust-film/public/media/original.png",
+    "bytes": 6790857,
+    "sha256": "6ca33a70eab838e54fe5f7239b7e61e12f4658ad61444e1407dacd75e1412336"
+  },
+  {
+    "path": "njust-film/public/media/portrait_DAY.png",
+    "bytes": 2311482,
+    "sha256": "11b2b6242e09924571d02c09eb635e4433c4147a08f320d3aeb0346cc49c7a72"
+  },
+  {
+    "path": "njust-film/public/media/portrait_GOLDEN_HOUR.png",
+    "bytes": 2325177,
+    "sha256": "8f278d09ccf84d0bfc7a02ca80bcd62f7cf934f5ff0f560124ccd233313e344e"
+  },
+  {
+    "path": "njust-film/public/media/portrait_NIGHT.png",
+    "bytes": 1995591,
+    "sha256": "ef773034da11628b7bfd2f6297c938eb5cd4a32869bb6c27e27b416fecdc106f"
+  },
+  {
+    "path": "njust-film/public/media/wire.png",
+    "bytes": 778905,
+    "sha256": "c41a9f70d6c04f54ca698cf5c53ce43b8657704e750ef10de401f4df4b324848"
+  }
+]

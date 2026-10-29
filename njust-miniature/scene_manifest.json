@@ -1,0 +1,12 @@
+{
+  "objects": 1172,
+  "mesh_vertices": 217125,
+  "cameras": [
+    "01 | Complete campus",
+    "02 | Violet woodland",
+    "03 | Academic heart",
+    "04 | Plan view",
+    "05 | Lake & bridge"
+  ],
+  "blender": "5.1.2"
+}

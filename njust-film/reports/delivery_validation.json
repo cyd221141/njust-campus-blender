@@ -1,0 +1,102 @@
+{
+  "Bilibili": {
+    "file": "NJUST_Bilibili_48s_1080p.mp4",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuvj420p",
+          "r_frame_rate": "30/1",
+          "duration": "48.000000",
+          "nb_frames": "1440",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "duration": "48.042667",
+          "nb_frames": "2252"
+        }
+      ],
+      "format": {
+        "duration": "48.042667",
+        "size": "68007016",
+        "bit_rate": "11324436"
+      }
+    },
+    "audio_loudness": {
+      "input_i": "-12.56",
+      "input_tp": "-1.01",
+      "input_lra": "2.80",
+      "input_thresh": "-22.70",
+      "output_i": "-13.55",
+      "output_tp": "-1.52",
+      "output_lra": "2.00",
+      "output_thresh": "-23.63",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.45"
+    },
+    "full_decode": "passed",
+    "sha256": "8b7dd48a3bf4da9a88c6e4ac754a241a2b22dd05cbf9037d057da454d3aa12ad"
+  },
+  "Douyin": {
+    "file": "NJUST_Douyin_48s_1080p.mp4",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920,
+          "pix_fmt": "yuvj420p",
+          "r_frame_rate": "30/1",
+          "duration": "48.000000",
+          "nb_frames": "1440",
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 2,
+          "r_frame_rate": "0/0",
+          "duration": "48.042667",
+          "nb_frames": "2252"
+        }
+      ],
+      "format": {
+        "duration": "48.042667",
+        "size": "43547278",
+        "bit_rate": "7251433"
+      }
+    },
+    "audio_loudness": {
+      "input_i": "-12.56",
+      "input_tp": "-1.01",
+      "input_lra": "2.80",
+      "input_thresh": "-22.70",
+      "output_i": "-13.55",
+      "output_tp": "-1.52",
+      "output_lra": "2.00",
+      "output_thresh": "-23.63",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.45"
+    },
+    "full_decode": "passed",
+    "sha256": "42f1604960e4e26d6570fe3bb0a5496d8b56eb0e5c9c520a9f9114ef7b35cec7"
+  }
+}

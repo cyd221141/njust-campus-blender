@@ -1,0 +1,18 @@
+node_modules/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.log
+*.blend1
+process/
+public/fonts/
+# Large binaries are intended for versioned release assets.
+*.blend
+*.mp4
+*.wav
+*.hdr
+*.zip
+
+*.glb
+*.png
